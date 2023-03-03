@@ -17,17 +17,17 @@ public class Main {
         float cd = 2;
         int sum = a + b;
         int sub = a - b;
-        int mul = a * b;
+       /* int mul = a * b;
         int div = a / b;
         float divi = ab / cd;
-        int mod = a % b;
+        int mod = a % b;*/
         System.out.println("Addition = "+sum);
         System.out.println("Subtraction = "+sub);
-        System.out.println("Multiplication = "+mul);
+       /* System.out.println("Multiplication = "+mul);
         System.out.println("Division of int number = "+div);
         System.out.println("Division of float number = "+divi);
         System.out.println("Modulous is = "+mod);
         System.out.println("Quotient = "+div);
-        System.out.println("Remainder is = "+mod);
+        System.out.println("Remainder is = "+mod);*/
     }
 }
