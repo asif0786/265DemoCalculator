@@ -33,9 +33,10 @@ public class Main {
                 double mod = a % b;
                 System.out.println("The remainder is  "+mod);
                 break;
+            default:
+                System.out.println("Wrong Choice Selected");
+                break;
         }
-
         sc.close();
-
     }
 }
